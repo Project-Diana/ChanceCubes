@@ -1,0 +1,19 @@
+{
+  "modListVersion": 2,
+  "modList": [
+    {
+      "modid": "${modId}",
+      "name": "${modName}",
+      "description": "A Game of Chance and Skill",
+      "version": "${modVersion}",
+      "mcversion": "${minecraftVersion}",
+      "url": "https://github.com/Project-Diana/ChanceCubes",
+      "updateUrl": "",
+      "authorList": ["Turkey2349"],
+      "credits": "Funwayguy for the Icosahderon model and awesome rendering effects! https://twitter.com/Funwayguy",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+  ]
+}
